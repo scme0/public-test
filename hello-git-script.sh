@@ -1,1 +1,1 @@
-echo "Hello Git Sourced Scripts!"
+echo "Hello Git Sourced Scripts! And also Scheduled Triggers!"
